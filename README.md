@@ -33,5 +33,7 @@ or give me a shout on social media. <br><br>
 #### Being a Technology enthusiast, I have repeatedly been exposed to the culture of solving problems using technologies and opportunities to connect with like-minded people.
 #### I'm always pushing myself to evolve and gain a broader perspective on technology.
 #### I believe in agile learning, its implementation and polishing over time, and giving back to the community whenever I have the chance.
+### I love connecting with new people🙂, give me a shout at on LinkedIn! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samyakkhatua)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=samyakkhatua&icon=5&color=7)](https://visitcount.itsvg.in)
