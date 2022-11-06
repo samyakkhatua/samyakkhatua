@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-**samyakkhatua/samyakkhatua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<div class="tenor-gif-embed" data-postid="12359359" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/wave-hand-sup-hi-gif-12359359">Wave Hand GIF</a>from <a href="https://tenor.com/search/wave-gifs">Wave GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,7 +12,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 # 💫 About Me:
-🔭 I’m currently working on my Skills.<br>🌱 I’m currently learning more about Game Development.<br>🤔 I’m looking for help with Exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - maxcodes11110@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: My favourite song is Grateful by Neffex.
+🔭 I’m currently working on my Skills.
+🌱 I’m currently learning more about Game Development.
+🤔 I’m looking for help with Exploring New Technologies.
+💬 Ask me about any tech-related stuff.
+📫 How to reach me: Email - maxcodes11110@gmail.com
+😄 Pronouns: He/His<br>⚡ Fun fact: My favourite song is Grateful by Neffex.
 
 
 ## 🌐 Socials:
@@ -26,6 +29,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=samyakkhatua&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samyakkhatua&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samyakkhatua&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Samyak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
