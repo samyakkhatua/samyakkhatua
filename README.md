@@ -1,4 +1,4 @@
-# Hi I am Samyak! 👋
+# Hi I am Samyak! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
 ### A Front-end React Web developer Building modern-day UI components to improvise application performance using Javascript & ReactJS
 #### :diamond_shape_with_a_dot_inside: Core Member at Innovation & Entrepreneurship Cell of Siksha 'O' Anusandhan University 
@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning advanced concepts of ReactJS
 - 💬 Ask me about Frontend Development
 - 📫 How to reach me: <a href="mailto:hello@samyakkhatua.in">hello@samyakkhatua.in</a>
+
 
 
 ## 🌐 Socials:
@@ -26,10 +27,11 @@ or give me a shout on social media. <br><br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=samyakkhatua&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=samyakkhatua&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- [![Samyak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=samyakkhatua)](https://github.com/anuraghazra/github-readme-stats) -->
-
 ## ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+#### Being a Technology enthusiast, I have repeatedly been exposed to the culture of solving problems using technologies and opportunities to connect with like-minded people.
+#### I'm always pushing myself to evolve and gain a broader perspective on technology.
+#### I believe in agile learning, its implementation and polishing over time, and giving back to the community whenever I have the chance.
 ---
 [![](https://visitcount.itsvg.in/api?id=samyakkhatua&icon=5&color=7)](https://visitcount.itsvg.in)
