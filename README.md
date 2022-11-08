@@ -11,7 +11,8 @@
 - 📫 How to reach me: <a href="mailto:hello@samyakkhatua.in">hello@samyakkhatua.in</a>
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
+[![](https://visitcount.itsvg.in/api?id=samyakkhatua&icon=5&color=7)](https://visitcount.itsvg.in)
 #### I’m always up for a chat.
 Pop me an email at <a href="mailto:hello@samyakkhatua.in">hello@samyakkhatua.in</a>
 or give me a shout on social media. <br><br>
