@@ -10,7 +10,6 @@
 - 💬 Ask me about Frontend Development
 - 📫 How to reach me: <a href="mailto:hello@samyakkhatua.in">hello@samyakkhatua.in</a>
 
-
 ## 🌐 Socials: 
 [![](https://visitcount.itsvg.in/api?id=samyakkhatua&icon=5&color=7)](https://visitcount.itsvg.in)
 #### I’m always up for a chat.
