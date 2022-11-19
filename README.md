@@ -2,11 +2,11 @@
 
 ### A Front-end React Web developer Building modern-day UI components to improvise application performance using Javascript & ReactJS
 #### :diamond_shape_with_a_dot_inside: Core Member at Innovation & Entrepreneurship Cell of Siksha 'O' Anusandhan University 
-#### :diamond_shape_with_a_dot_inside: Under Grad student at SOA University'24
+#### :diamond_shape_with_a_dot_inside: Under Grad student at **SOA University'24**
 
 - 😎 Brings ideas to life with code.
-- 🔭 I’m currently uuilding real life projects on ReactJS
-- 🌱 I’m currently learning advanced concepts of ReactJS
+- 🔭 I’m currently building real life projects on ReactJS
+- 🌱 And learning advanced concepts of ReactJS
 - 💬 Ask me about Frontend Development
 - 📫 How to reach me: <a href="mailto:hello@samyakkhatua.in">hello@samyakkhatua.in</a>
 
